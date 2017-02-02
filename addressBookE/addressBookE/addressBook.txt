@@ -1,0 +1,9 @@
+B;Bob@pcc.edu
+Colin Goble;colin@yahoo.com
+Doug Jones;cdjones@pcc.edu
+Emma;emma@gmail.com
+Li Liang;lliang@pcc.edu
+Michael Trigoboff;michael.trigoboff@pcc.edu
+Sandy Smith;sandy.smith@gmail.com
+Susan Black;susan.black@yahoo.com
+b;bob@pcc.edu
